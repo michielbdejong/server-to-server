@@ -1,0 +1,11 @@
+{
+  "name": "decentralized-sharing-client",
+  "repository": "https://github.com/Decentralized-Sharing-Working-Group/server-to-server",
+  "version": "0.0.0",
+  "dependencies": {
+    "yargs": "*",
+    "formidable": "*",
+    "ssl-root-cas": "latest"
+  },
+  "main": "server.js"
+}
